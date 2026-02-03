@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "05-Eventing-EventGrid": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:53606;http://localhost:53611"
+    }
+  }
+}
