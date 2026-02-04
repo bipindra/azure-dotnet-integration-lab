@@ -1,4 +1,4 @@
-# Troubleshooting Guide
+# Troubleshooting Guide 
 
 Common issues and solutions for the Azure Integration Lab projects.
 
