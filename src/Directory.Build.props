@@ -20,7 +20,7 @@
     <MicrosoftExtensionsHostingVersion>8.0.1</MicrosoftExtensionsHostingVersion>
     <MicrosoftExtensionsLoggingVersion>8.0.1</MicrosoftExtensionsLoggingVersion>
     <MicrosoftExtensionsOptionsVersion>8.0.2</MicrosoftExtensionsOptionsVersion>
-    <PollyVersion>8.4.2</PollyVersion>
+    <PollyVersion>8.6.5</PollyVersion>
   </PropertyGroup>
 
   <!-- Common package references for console/worker apps -->
