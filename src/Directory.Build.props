@@ -13,13 +13,13 @@
     <AzureIdentityVersion>1.11.0</AzureIdentityVersion>
     <AzureCoreVersion>1.38.0</AzureCoreVersion>
     <MicrosoftExtensionsVersion>8.0.0</MicrosoftExtensionsVersion>
-    <MicrosoftExtensionsAbstractionsVersion>8.0.2</MicrosoftExtensionsAbstractionsVersion>
-    <MicrosoftExtensionsConfigurationVersion>8.0.0</MicrosoftExtensionsConfigurationVersion>
-    <MicrosoftExtensionsConfigurationJsonVersion>8.0.1</MicrosoftExtensionsConfigurationJsonVersion>
-    <MicrosoftExtensionsDIVersion>8.0.1</MicrosoftExtensionsDIVersion>
-    <MicrosoftExtensionsHostingVersion>8.0.1</MicrosoftExtensionsHostingVersion>
-    <MicrosoftExtensionsLoggingVersion>8.0.1</MicrosoftExtensionsLoggingVersion>
-    <MicrosoftExtensionsOptionsVersion>8.0.2</MicrosoftExtensionsOptionsVersion>
+    <MicrosoftExtensionsAbstractionsVersion>10.0.3</MicrosoftExtensionsAbstractionsVersion>
+    <MicrosoftExtensionsConfigurationVersion>10.0.3</MicrosoftExtensionsConfigurationVersion>
+    <MicrosoftExtensionsConfigurationJsonVersion>10.0.3</MicrosoftExtensionsConfigurationJsonVersion>
+    <MicrosoftExtensionsDIVersion>10.0.3</MicrosoftExtensionsDIVersion>
+    <MicrosoftExtensionsHostingVersion>10.0.3</MicrosoftExtensionsHostingVersion>
+    <MicrosoftExtensionsLoggingVersion>10.0.3</MicrosoftExtensionsLoggingVersion>
+    <MicrosoftExtensionsOptionsVersion>10.0.3</MicrosoftExtensionsOptionsVersion>
     <PollyVersion>8.4.2</PollyVersion>
   </PropertyGroup>
 
