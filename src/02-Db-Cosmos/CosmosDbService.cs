@@ -40,9 +40,8 @@ public class CosmosDbService
                 cancellationToken: cancellationToken);
 
             _logger.LogInformation(
-                "Database '{DatabaseName}' ready (throughput: {Throughput} RU/s)",
-                databaseResponse.Database.Id,
-                databaseResponse.Database.Throughput ?? 400);
+                "Database '{DatabaseName}' ready",
+                databaseResponse.Database.Id);
 
             // Create container if it doesn't exist
             var containerProperties = new ContainerProperties

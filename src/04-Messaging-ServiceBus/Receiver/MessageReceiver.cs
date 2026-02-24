@@ -101,9 +101,7 @@ public class MessageReceiver
     {
         _logger.LogError(
             args.Exception,
-            "Error in message processor: {ErrorSource}, {Reason}",
-            args.ErrorSource,
-            args.Reason);
+            "Error in message processor: {ErrorSource}", args.ErrorSource);
 
         return Task.CompletedTask;
     }

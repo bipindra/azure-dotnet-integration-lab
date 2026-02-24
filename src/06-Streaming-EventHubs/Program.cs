@@ -11,8 +11,9 @@
 // - Use blob storage for checkpoint storage
 
 using Common;
+using Microsoft.Extensions.Logging;
 
-var logger = LoggerFactory.Create(builder => builder.AddConsole()).CreateLogger<Program>();
+var logger = Microsoft.Extensions.Logging.LoggerFactory.Create(builder => builder.AddConsole()).CreateLogger<Program>();
 logger.LogApplicationStartup("06-Streaming-EventHubs", "1.0.0");
 
 logger.LogWarning("TODO: Implement Event Hubs producer and consumer");
