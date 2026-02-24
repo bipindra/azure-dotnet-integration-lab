@@ -123,7 +123,7 @@ public class BlobStorageService
             _logger.LogInformation(
                 "Successfully downloaded blob '{BlobName}' ({Size} bytes)",
                 blobName,
-                response.Value.ContentLength);
+                response.Value.Content);
 
             return content;
         }
