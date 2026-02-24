@@ -1,15 +1,10 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
-
-  <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <LangVersion>12</LangVersion>
-  </PropertyGroup>
+<Project Sdk="Microsoft.NET.Sdk.Worker">
 
   <ItemGroup>
+    <PackageReference Include="Azure.Core" Version="1.38.0" />
+    <PackageReference Include="Azure.Identity" Version="1.11.0" />
     <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.17.0" />
-    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="$(MicrosoftExtensionsHostingVersion)" />
   </ItemGroup>
 
   <ItemGroup>

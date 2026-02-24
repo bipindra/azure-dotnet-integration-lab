@@ -1,12 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
     <AzureFunctionsVersion>V4</AzureFunctionsVersion>
     <OutputType>Exe</OutputType>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-    <LangVersion>12</LangVersion>
+    <IsAzureFunctions>true</IsAzureFunctions>
     <AssemblyName>ServerlessFunctionsServiceBusTrigger</AssemblyName>
     <RootNamespace>ServerlessFunctionsServiceBusTrigger</RootNamespace>
   </PropertyGroup>
