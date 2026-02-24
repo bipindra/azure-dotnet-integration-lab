@@ -16,10 +16,10 @@
     <MicrosoftExtensionsAbstractionsVersion>8.0.2</MicrosoftExtensionsAbstractionsVersion>
     <MicrosoftExtensionsConfigurationVersion>8.0.0</MicrosoftExtensionsConfigurationVersion>
     <MicrosoftExtensionsConfigurationJsonVersion>8.0.1</MicrosoftExtensionsConfigurationJsonVersion>
-    <MicrosoftExtensionsDIVersion>8.0.1</MicrosoftExtensionsDIVersion>
+    <MicrosoftExtensionsDIVersion>9.0.13</MicrosoftExtensionsDIVersion>
     <MicrosoftExtensionsHostingVersion>8.0.1</MicrosoftExtensionsHostingVersion>
-    <MicrosoftExtensionsLoggingVersion>8.0.1</MicrosoftExtensionsLoggingVersion>
-    <MicrosoftExtensionsOptionsVersion>8.0.2</MicrosoftExtensionsOptionsVersion>
+    <MicrosoftExtensionsLoggingVersion>9.0.13</MicrosoftExtensionsLoggingVersion>
+    <MicrosoftExtensionsOptionsVersion>9.0.13</MicrosoftExtensionsOptionsVersion>
     <PollyVersion>8.4.2</PollyVersion>
   </PropertyGroup>
 
