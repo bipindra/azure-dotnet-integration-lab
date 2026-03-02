@@ -10,11 +10,11 @@
 
   <!-- Common package versions -->
   <PropertyGroup>
-    <AzureIdentityVersion>1.13.1</AzureIdentityVersion>
-    <AzureCoreVersion>1.44.1</AzureCoreVersion>
+    <AzureIdentityVersion>1.18.0</AzureIdentityVersion>
+    <AzureCoreVersion>1.51.1</AzureCoreVersion>
     <MicrosoftExtensionsVersion>8.0.1</MicrosoftExtensionsVersion>
     <MicrosoftExtensionsAbstractionsVersion>8.0.2</MicrosoftExtensionsAbstractionsVersion>
-    <MicrosoftExtensionsConfigurationVersion>8.0.1</MicrosoftExtensionsConfigurationVersion>
+    <MicrosoftExtensionsConfigurationVersion>10.0.3</MicrosoftExtensionsConfigurationVersion>
     <MicrosoftExtensionsConfigurationJsonVersion>8.0.1</MicrosoftExtensionsConfigurationJsonVersion>
     <MicrosoftExtensionsDIVersion>8.0.1</MicrosoftExtensionsDIVersion>
     <MicrosoftExtensionsHostingVersion>8.0.1</MicrosoftExtensionsHostingVersion>
